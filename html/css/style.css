@@ -1,0 +1,13 @@
+.color_1{
+    color: #7a1546;
+    } 
+.background_1{
+    border: solid 2px;
+    background-color: rgb(50, 135, 135);
+    }
+.p_1{
+    letter-spacing: 0.6em;
+    word-spacing: 10px;
+    line-height: 3.0;
+    text-indent: 30px;
+    }
